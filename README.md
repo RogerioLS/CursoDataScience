@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="logo.png">
+<img src="logo.png"  height="250">
 </p>
 
 Este repositório é referente ao curso de Data Science que estou fazendo aqui você vai conhecer e aprender a aplicar todos os principais conceitos e técnicas para se qualificar e atuar como um Cientista de Dados, com detalhes para leigos, exemplos práticos de codificação em **R e Python** usando dados reais, explicações de resolução de fórmulas passo a passo, contendo: 
