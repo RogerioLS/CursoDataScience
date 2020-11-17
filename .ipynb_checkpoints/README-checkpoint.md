@@ -14,7 +14,7 @@ Este repositório é referente ao curso de Data Science que estou fazendo aqui v
 
 :white_check_mark: *Visualização, Gráficos e Dashboards*
 
-:hourglass_flowing_sand: *Grafos e Redes Sociais*
+:white_check_mark: *Grafos e Redes Sociais*
 
 :hourglass_flowing_sand: *Mineração de Texto*
 
