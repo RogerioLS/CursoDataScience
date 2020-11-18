@@ -16,7 +16,7 @@ Este repositório é referente ao curso de Data Science que estou fazendo aqui v
 
 :white_check_mark: *Grafos e Redes Sociais*
 
-:hourglass_flowing_sand: *Mineração de Texto*
+:white_check_mark: *Mineração de Texto*
 
 :hourglass_flowing_sand: *SQL e NoSQL*
 
