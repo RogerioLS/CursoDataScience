@@ -20,9 +20,9 @@ Este repositório é referente ao curso de Data Science que estou fazendo aqui v
 
 :white_check_mark: *SQL e NoSQL*
 
-:hourglass_flowing_sand: *Fundamentos de Gestão de Projetos*
+:white_check_mark: *Fundamentos de Gestão de Projetos*
 
-:hourglass_flowing_sand: *Power BI*
+:white_check_mark: *Power BI*
 
 :hourglass_flowing_sand: *Tableau*
 
