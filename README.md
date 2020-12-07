@@ -24,9 +24,9 @@ Este repositório é referente ao curso de Data Science que estou fazendo aqui v
 
 :white_check_mark: *Power BI*
 
-:hourglass_flowing_sand: *Tableau*
+:white_check_mark: *Tableau*
 
-:hourglass_flowing_sand: *Fundamentos de Big Data*
+:white_check_mark:*Fundamentos de Big Data*
 
 **O que vamos aprender** :books:
 
